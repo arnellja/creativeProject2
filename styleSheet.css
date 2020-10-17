@@ -1,0 +1,49 @@
+@media only screen and (max-width:700px) and (min-width: 300px){
+	.leftColumn{
+		left-margin: 50px;
+	}
+	.rightColumn{
+		right-margin: 50px;
+		font-size: 10px;
+	}
+}
+
+.holidayContain{
+	background-color: #560319;
+	margin-top: 30px;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	width: 75%;
+	margin-right: 30px;
+}
+form{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	background-color: #560319;
+	color: white;
+	padding: 10px 10px 10px 10px;
+}
+
+.contain{
+	text-align: center;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.countryContain{
+	margin-right: 10px;
+}
